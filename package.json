@@ -1,0 +1,19 @@
+{
+  "name": "helloexpress",
+  "version": "1.0.0",
+  "description": "Testing Node.js with Typescript by running a simple Express server.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanHackFest/HelloExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanHackFest/HelloExpress/issues"
+  },
+  "homepage": "https://github.com/StefanHackFest/HelloExpress#readme"
+}
